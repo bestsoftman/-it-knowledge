@@ -60,7 +60,10 @@
 
 扫描下方二维码加猿人微信,备注“”SpringBoot/SpringCloud学习”即可领取！
 
-![](https://gitee.com/zhangbw666/img-folder/raw/master/img-wechat/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpg)
+
+<div align="left">
+<img src="https://gitee.com/zhangbw666/img-folder/raw/master/img-wechat/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpg" height="250" width="200" >
+</div>
 
 #### [猿码天地-Java知识学堂脑图](https://www.processon.com/view/link/6035ed1f079129248a64a6af) （查看文件密码：请关注公众号【猿码天地】，回复关键字‘活到老学到老’获取）
 #### [猿码天地-Java超神之路脑图](https://www.processon.com/view/link/6035f068e0b34d124437e0e1) （查看文件密码：请关注公众号【猿码天地】，回复关键字‘活到老学到老’获取）
