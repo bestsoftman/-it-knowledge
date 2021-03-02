@@ -59,7 +59,7 @@
 * 关注微信公众号【猿码天地】回复关键字“猿人” 可获取！
 
 <div align="left">
-<img src="https://gitee.com/zhangbw666/img-folder/raw/master/img-wechat/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" height="300" width="700" >
+<img src="https://gitee.com/zhangbw666/img-folder/raw/master/img-wechat/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B72.jpg" height="250" width="250" >
 </div>
 
 
