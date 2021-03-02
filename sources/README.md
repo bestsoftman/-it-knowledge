@@ -1,6 +1,4 @@
-猿码天地 一个在互联网打拼的工具人 公众号【猿码天地】
-
-可以关注[【公众号】](https://gitee.com/zhangbw666/img-folder/raw/master/img-wechat/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)或者加我[【微信】](https://gitee.com/zhangbw666/img-folder/raw/master/img-wechat/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpg)学习Java开发和提意见。别忘记**Star**哟！
+猿码天地 一个在互联网打拼的工具人 公众号【猿码天地】可以关注[【公众号】](https://gitee.com/zhangbw666/img-folder/raw/master/img-wechat/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)或者加我[【微信】](https://gitee.com/zhangbw666/img-folder/raw/master/img-wechat/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpg)学习Java开发和提意见。别忘记**Star**哟！
 
 原创文章每周最少两篇，公众号首发文章，[【B站】](https://space.bilibili.com/415554856/dynamic)首发视频。
 
