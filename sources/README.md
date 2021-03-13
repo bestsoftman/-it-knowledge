@@ -56,18 +56,10 @@
 
 >源码和文档获取方式
 
-* 关注微信公众号【猿码天地】回复关键字“猿人” 可获取！
+- 关注微信公众号【猿码天地】回复关键字“猿人” 可获取！
 
 <div align="left">
 <img src="https://gitee.com/zhangbw666/img-folder/raw/master/img-wechat/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B72.jpg" height="250" width="250" >
-</div>
-
-
-* 或者扫描下方二维码加猿人微信,备注“”SpringBoot/SpringCloud学习”即可领取！
-
-
-<div align="left">
-<img src="https://gitee.com/zhangbw666/img-folder/raw/master/img-wechat/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpg" height="250" width="200" >
 </div>
 
 #### [猿码天地-Java知识学堂脑图](https://www.processon.com/view/link/6035ed1f079129248a64a6af) （查看文件密码：请关注公众号【猿码天地】，回复关键字‘活到老学到老’获取）
